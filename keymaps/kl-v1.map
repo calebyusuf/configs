@@ -1,0 +1,19 @@
+# First Keymap for Linux Console
+
+include "qwerty-layout"
+
+keycode 56 =    AltGr
+keycode 100 =   Alt
+keycode 54 =    Caps_Lock
+keycode 58 =    CapsShift
+keycode 41 =    Escape
+keycode 86 =    grave   asciitilde
+
+
+# hjkl vim
+#
+CapsShift keycode 35 = Left
+CapsShift keycode 36 = Down
+CapsShift keycode 37 = Up
+CapsShift keycode 36 = Right
+
